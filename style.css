@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Abel');
+body{
+    overflow-y: hidden;
+}
+#navbarMonstera{
+    display: flex;
+    flex-direction: row;
+}
+#navFirst img{
+    margin-top: 40px;
+    margin-left: 30px;
+    height: 30px;
+}
+#navMid{
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+    margin-top: 22px;
+}
+#navMid h4{
+    margin-left: 80px;
+    font-size: 16px;
+    font-weight: 200;
+    font-family: Allerta;
+    text-align: center;
+}
+#navMid h4:hover{
+    cursor: pointer;
+    border-bottom: 2px solid black;
+}
+#navEnd{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+#navEnd img{
+    margin-left: 40px;
+    height: 20px;
+}
+#monstera{
+    margin-top: 100px;
+    font-family: Allerta;
+    font-size: 90px;
+    height: 40px;
+}
+#midWholePart11 li{
+    list-style-type:disc;
+    font-size: 16px;
+    font-family: Allerta;
+}
+#midWholePart121 h1{
+    background-color: #466d50;
+    border-radius: 50px;
+    color: #fff;
+    padding: 5px 30px;
+    margin-left: 50px;
+    font-family: Abel;
+    width: 20%;
+    font-weight: 100;
+    margin-top: 40px;
+    font-size: 30px;
+
+}
+#midWholePart121 h1:hover{
+    cursor: pointer;
+}
+#midWhole{
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+}
+#imgMain{
+    height: 550px;
+    margin-left: 150px;
+    margin-right: -8px;
+    margin-top: 10px;
+}
+#midWholePart13{
+    display: flex;
+    flex-direction: row;
+}
+.midWholePart13Parts{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.midWholePart13Parts img{
+    margin-top: 40px;
+    height: 60px;
+}
+.midWholePart13Parts h4{
+    margin-top: 50px;
+    font-size: 15px;
+    font-family: Allerta;
+    margin-left: 10px;
+}
+.midWholePart13Parts p{
+    margin-left: 10px;
+    font-size: 10px;
+    font-family: Allerta;
+    margin-top: -15px;
+}
