@@ -6,7 +6,7 @@
 <br>
 
 ## Project live link
-[Project-6](# "Not yet")
+[Project-6](# "project06")
 
 <hr>
 
